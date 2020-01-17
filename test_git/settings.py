@@ -27,6 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
+MY_APP-NAME = 'naber_lan'
 
 # Application definition
 
